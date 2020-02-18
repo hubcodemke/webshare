@@ -20,6 +20,8 @@ function App() {
               url=https://github.com/hubcodemke/VVShare?test=1&code=abc
               description=测试描述
               <br />
+              image=http://t9.baidu.com/it/u=2268908537,2815455140&fm=79&app=86&f=JPEG?w=1280&h=719
+              <br/>
               width= 50
               <br />
               fontSize=20
@@ -31,6 +33,7 @@ function App() {
                 title="测试标题"
                 url="https://github.com/hubcodemke/VVShare?test=1&code=abc"
                 description="测试描述"
+                image="http://t9.baidu.com/it/u=2268908537,2815455140&fm=79&app=86&f=JPEG?w=1280&h=719"
                 width={50}
                 height={50}
                 fontSize={20}
